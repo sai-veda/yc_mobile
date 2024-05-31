@@ -6,6 +6,14 @@ This project is a sample React Native application created purely for the purpose
 
 This project is a startup directory application that mirrors the content found on the YC Companies website (https://www.ycombinator.com/companies). It allows users to browse and filter through a list of startups, providing detailed information about each company.
 
+### Watch the Demo Video
+
+For a quick overview of the app's features and functionality, you can watch the demo video below:
+
+<video controls>
+  <source src="screen-recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 Key features of this project include:
 
 - Displaying a comprehensive list of startups with detailed information.
