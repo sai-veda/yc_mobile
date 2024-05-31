@@ -34,8 +34,8 @@ There are two ways to open the app: using the QR code, scan it through the mobil
 
 #### Method 1: Using the QR Code
 ![QR Code](image.png) 
-1. **Open Expo Go**: Launch the Expo Go app on your mobile device.
-2. **Scan the QR Code**: Use the QR code scanner within the Expo Go app to scan the QR code provided below.
+1. **Install Expo Go**: Install the Expo Go app on your mobile device.
+2. **Scan the QR Code**: Use the your mobile camera to scan the QR code, it will navigate to the expo go and render the application.
 
 #### Method 2: Direct Link
 
