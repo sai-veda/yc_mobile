@@ -59,15 +59,7 @@ During my research, I identified several recommendations to enhance usability an
      - **Pagination**: Implement pagination to reduce response size.
      - **Data Filtering**: Allow clients to request only the necessary fields.
      - **Caching**: Use Ruby on Rails' built-in caching mechanisms like fragment caching, action caching, or low-level caching to improve performance.
-2. **Data Management**
-   - **Issue Identified**: Inefficient handling of large data volumes.
-   - **Implications**: Higher storage costs, slower data retrieval, and increased security risks.
-   - **Recommendations**:
-     - **Database Optimization**: Regular indexing, partitioning, and archiving.
-     - **Data Cleaning**: Remove redundant and obsolete data.
-     - **Cloud Solutions**: Use scalable and cost-effective cloud data management.
-
-3. **Enhancing User Engagement: Bookface Mobile App**
+2. **Enhancing User Engagement: Bookface Mobile App**
    - **Opportunity Identified**: A mobile app for Bookface can boost user engagement.
    - **Benefits**: Increased accessibility, push notifications, and improved user experience.
    - **Proposed Features**:
