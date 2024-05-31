@@ -10,7 +10,7 @@ This project is a startup directory application that mirrors the content found o
 
 For a quick overview of the app's features and functionality, you can watch the demo video below:
 
-[Watch Demo Video]([https://example.com/screen-recording.mp4](https://github.com/sai-veda/yc_mobile/blob/main/screen-recording.mp4))
+[Watch Demo Video](https://github.com/sai-veda/yc_mobile/blob/main/screen-recording.mp4)
 
 Key features of this project include:
 
