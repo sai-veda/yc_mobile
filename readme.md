@@ -10,10 +10,8 @@ This project is a startup directory application that mirrors the content found o
 
 For a quick overview of the app's features and functionality, you can watch the demo video below:
 
-<video controls>
-  <source src="screen-recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Demo Video](https://example.com/screen-recording.mp4)
+
 Key features of this project include:
 
 - Displaying a comprehensive list of startups with detailed information.
